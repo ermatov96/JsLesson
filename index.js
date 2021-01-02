@@ -472,3 +472,4 @@ function Game(title){
   console.log(this);
 }
 const roblox =new Game('rolbox');
+console.log('Alhamdulillah');

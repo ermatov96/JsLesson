@@ -402,3 +402,4 @@ function Game(title) {
 }
 
 var roblox = new Game('rolbox');
+console.log('Alhamdulillah');
